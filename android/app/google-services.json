@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "293480056600",
+    "firebase_url": "https://pergo-react-native.firebaseio.com",
+    "project_id": "pergo-react-native",
+    "storage_bucket": "pergo-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293480056600:android:eb41711acb0e55110d806d",
+        "android_client_info": {
+          "package_name": "com.pergo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293480056600-vhprtsjvs2ag8ul6cc2rrs4lsuh0b3b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8U35_sa7-uibnEwVCPrATHXws45WvOsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293480056600-vhprtsjvs2ag8ul6cc2rrs4lsuh0b3b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

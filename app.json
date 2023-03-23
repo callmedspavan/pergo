@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "PergoUser",
+    "slug": "PergoUser",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "icon": "./app/assets/appicon.png",
+    "splash": {
+      "image": "./app/assets/appicon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffcc01"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.pergo"
+    },
+    "web": {
+      "favicon": "./app/assets/favicon.png"
+    },
+    
+    "android": {
+      "package": "com.pergo.app"
+      
+    },
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  },
+  "displayName": "Pergo",
+  "name": "Pergo"
+}
